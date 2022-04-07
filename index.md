@@ -140,5 +140,18 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    headline: Contact
+    content: <strong>Email </strong><a href="sihao@mit.edu" title="">sihao@mit.edu</a>
+    slug: ''
+  col_2:
+    headline: Social Media
+    content: <strong>Twitter </strong><a href="https://twitter.com/Huang_Sihao" title="">@Huang_Sihao</a>
+    slug: ''
+- template: simple-footer
+  block: footer-1
+  content: ''
 
 ---
