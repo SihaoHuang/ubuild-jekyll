@@ -35,6 +35,7 @@ page_sections:
     image: ''
     alt_text: Product Shot
   background_image: "/uploads/2022/04/07/dsc02222.jpg"
+  color-picker: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -67,6 +68,7 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+  color-picker: "#FFFFFF"
 - template: content-feature
   block: feature-1
   media_alignment: Left
