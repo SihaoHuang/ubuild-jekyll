@@ -21,10 +21,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: <strong>Hi! I'm Sihao Huang. I'm studying Physics and Electrical Engineering
-    at MIT. I work on </strong><a href="https://www.hindawi.com/journals/complexity/2020/6105872/"
-    title=""><strong>complex systems</strong></a><strong> and policy, comparative
-    government, and the </strong><a href="https://books.google.com/ngrams/graph?content=economics%2Cpolitical+economy&amp;year_start=1776&amp;year_end=2008&amp;corpus=15&amp;smoothing=0&amp;share=&amp;direct_url=t1%B%2Ceconomics%3B%2Cc0%3B.t1%3B%2Cpolitical%20economy%3B%2Cc0"
-    title=""><strong>political economy of development</strong></a><strong>.</strong>
+    at MIT. I work on the intersection of </strong><a href="https://www.hindawi.com/journals/complexity/2020/6105872/"
+    title=""><strong>complex systems</strong></a><strong> and policymaking.</strong>
   content: ''
   cta:
     enabled: false
