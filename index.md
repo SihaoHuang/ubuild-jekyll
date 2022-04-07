@@ -32,7 +32,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: ''
+    image: "/uploads/2022/04/07/dsc02222.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2022/04/07/dsc02222.jpg"
 - template: hero-banner-w-image
