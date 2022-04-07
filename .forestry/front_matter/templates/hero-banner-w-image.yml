@@ -2,6 +2,12 @@
 label: hero-banner-w-image
 hide_body: false
 fields:
+- name: color-picker
+  type: color
+  label: color-picker
+  config:
+    required: false
+    color_format: Hex
 - type: text
   hidden: true
   label: block
@@ -34,9 +40,3 @@ fields:
   - type: text
     name: button_text
     label: Button text
-- name: color-picker
-  type: color
-  label: color-picker
-  config:
-    required: false
-    color_format: Hex
