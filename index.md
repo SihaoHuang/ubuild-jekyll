@@ -7,14 +7,14 @@ page_sections:
   block: header-2
   logo: ''
   navigation:
-  - link: ''
-    link_text: CV
-  - link: sihao@mit.edu
-    link_text: sihao@mit.edu
   - link: "#current-work"
     link_text: Current Work
   - link: "#publications"
     link_text: Publications
+  - link: sihao@mit.edu
+    link_text: sihao@mit.edu
+  - link: ''
+    link_text: CV
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
@@ -45,7 +45,7 @@ page_sections:
     class="Apple-converted-space"> </span>computational tools<span class="Apple-converted-space">
     </span>to work with old, messy, and </strong><a href="" title=""><strong>unstructured
     data</strong></a><strong>.</strong>
-  background_image: ''
+  background_image: "/uploads/2022/04/07/_dsc0334.jpg"
   image:
     image: ''
     alt_text: ''
