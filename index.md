@@ -126,7 +126,7 @@ page_sections:
     work and consensus.Ungated version: <a href="https://osf.io/preprints/socarxiv/tnxg6/"
     title="SocArXiv working paper version.">SocArXiv</a>'
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
+    image: "/uploads/2022/04/07/img_5984.jpg"
     alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
