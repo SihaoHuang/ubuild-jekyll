@@ -32,9 +32,9 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: ''
     alt_text: Product Shot
-  background_image: ''
+  background_image: "/uploads/2022/04/07/dsc02222.jpg"
 - template: hero-banner-w-image
   block: hero-2
   headline: <strong>I study comparative economic development, focusing on the role
