@@ -27,6 +27,11 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: image_upload
+  type: file
+  config:
+    maxSize: 64
+  label: Image Upload
 - type: field_group
   name: cta
   label: Call-to-action
