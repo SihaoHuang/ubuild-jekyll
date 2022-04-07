@@ -44,14 +44,12 @@ page_sections:
     alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
-  headline: <strong>I study comparative economic development, focusing on the role
-    of politics, history and the state. I'm particularly interested in </strong><a
-    href="" title=""><strong>industrial policy</strong></a><strong>.<br><br>I enjoy
-    using<span class="Apple-converted-space"> </span></strong><a href="" title=""><strong>statistical
-    learning</strong></a><strong><span class="Apple-converted-space"> </span>and<span
-    class="Apple-converted-space"> </span>computational tools<span class="Apple-converted-space">
-    </span>to work with old, messy, and </strong><a href="" title=""><strong>unstructured
-    data</strong></a><strong>.</strong>
+  headline: <strong>I study the political economy of development, focusing on the
+    role of comparative government and institutional complexity. I am also interested
+    in how these issues relate to democratic systems and electoral representation.<br><br>In
+    my past life, I built </strong><a href="aphelionorbitals.com" title=""><strong>satellites</strong></a><strong>,
+    superconducting </strong><a href="https://equs.mit.edu" title=""><strong>quantum
+    computers</strong></a><strong>, and biological neural networks.</strong>
   background_image: "/uploads/2022/04/07/_dsc0334.jpg"
   image:
     image: ''
@@ -61,7 +59,7 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-  color-picker: "#FFFFFF"
+  color-picker: "#FF9090"
 - template: content-feature
   block: feature-1
   media_alignment: Left
