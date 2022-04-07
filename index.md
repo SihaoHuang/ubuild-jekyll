@@ -28,7 +28,7 @@ page_sections:
     title=""><strong>political economy of development</strong></a><strong>.</strong>
   content: ''
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
