@@ -44,25 +44,6 @@ page_sections:
   media:
     image: ''
     alt_text: ''
-- template: hero-banner-w-image
-  block: hero-2
-  headline: <strong>I study the political economy of development, focusing on the
-    role of comparative government and institutional complexity. I am also interested
-    in how these issues relate to democratic systems and electoral representation.<br><br>In
-    my past life, I built </strong><a href="aphelionorbitals.com" title=""><strong>satellites</strong></a><strong>,
-    superconducting </strong><a href="https://equs.mit.edu" title=""><strong>quantum
-    computers</strong></a><strong>, and biological neural networks.</strong>
-  background_image: "/uploads/2022/04/07/_dsc0334.jpg"
-  image:
-    image: ''
-    alt_text: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
-  color-picker: "#FF9090"
-  image_upload: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -162,15 +143,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: ''
-- template: hero-banner-w-image
-  block: hero-2
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
-  color-picker: ''
-  image_upload: ''
 
 ---
