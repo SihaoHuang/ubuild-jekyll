@@ -20,12 +20,9 @@ page_sections:
     button_text: Import
 - template: hero-banner-w-image
   block: hero-2
-  headline: <strong>I study the political economy of development, focusing on the
-    role of comparative government and institutional complexity. I am also interested
-    in how these issues relate to democratic systems and electoral representation.<br><br>In
-    my past life, I built </strong><a href="aphelionorbitals.com" title=""><strong>satellites</strong></a><strong>,
-    superconducting </strong><a href="https://equs.mit.edu" title=""><strong>quantum
-    computers</strong></a><strong>, and biological neural networks.</strong>
+  headline: "<strong>Hi! I'm Sihao Huang, a student at MIT studying Physics and Electrical
+    Engineering. I work at the intersection of comparative government and complexity
+    science.</strong>"
   content: ''
   cta:
     enabled: false
