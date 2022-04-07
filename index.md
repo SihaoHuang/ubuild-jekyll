@@ -29,6 +29,7 @@ page_sections:
     url: ''
     button_text: ''
   color-picker: ''
+  image_upload: "/uploads/2022/04/07/_dsc0334.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -61,6 +62,7 @@ page_sections:
     url: ''
     button_text: ''
   color-picker: "#FF9090"
+  image_upload: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -169,5 +171,6 @@ page_sections:
     url: ''
     button_text: ''
   color-picker: ''
+  image_upload: ''
 
 ---
